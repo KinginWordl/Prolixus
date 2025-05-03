@@ -221,7 +221,7 @@ def iniciar_sesion():
     for usuario in todos_los_usuarios:
         if usuario.email == email_usuario and usuario.verificar_contrasena(contrasena):
             print(f"\n¡Inicio de sesión exitoso para {usuario.nombre} ({usuario.tipo})! Bienvenido a Prolix")
-            # Aquí podrías implementar la lógica para la sesión del usuario
+           
             return usuario
     print("\nCredenciales incorrectas. Intente nuevamente.")
     return None
@@ -241,7 +241,7 @@ if __name__ == "__main__":
             usuario_actual = iniciar_sesion()
             if usuario_actual:
                 print(f"\nBienvenido, {usuario_actual.nombre} ({usuario_actual.tipo})!")
-                # Aquí podrías iniciar la interfaz principal del usuario
+               
         elif opcion_menu == '3':
             print("Saliendo del programa.")
             break

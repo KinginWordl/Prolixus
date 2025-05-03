@@ -1,16 +1,153 @@
 [
-    {
-        "id": "00001",
-        "nombre": "Olimpica",
-        "email": "Tolimpica@gmail.com",
-        "ubicacion": "Colombia",
-        "contrasena": "0000",
-        "tipo": "Empresa",
-        "catalogo_productos": [],
-        "mision": null,
-        "valores": null,
-        "impacto_social": null,
-        "calificaciones": {},
-        "proyectos_innovadores": []
-    }
-]
+        {
+          "id": "E0001",
+          "nombre": "Café Quindío SAS",
+          "email": "info@cafequindio.com",
+          "ubicacion": "Armenia, Quindío",
+          "contrasena": "cafe123",
+          "tipo": "Empresa",
+          "catalogo_productos": [
+            {
+              "nombre": "Café Molido Premium",
+              "descripcion": "Mezcla de granos arábica de alta calidad.",
+              "precio": 15000,
+              "unidad": "500g"
+            },
+            {
+              "nombre": "Café en Grano Especialidad",
+              "descripcion": "Granos seleccionados para los amantes del café.",
+              "precio": 22000,
+              "unidad": "1kg"
+            }
+          ],
+          "mision": "Producir y comercializar café colombiano de excelencia, satisfaciendo a nuestros clientes y contribuyendo al desarrollo sostenible de la región.",
+          "valores": ["Calidad", "Tradición", "Sostenibilidad", "Innovación"],
+          "impacto_social": "Programas de apoyo a caficultores locales y prácticas agrícolas sostenibles.",
+          "calificaciones": {
+            "promedio": 4.5,
+            "total_evaluaciones": 50
+          },
+          "proyectos_innovadores": ["Desarrollo de empaques biodegradables", "Implementación de tecnología blockchain para trazabilidad del café"]
+        },
+        {
+          "id": "E0002",
+          "nombre": "Textiles Antioquia S.A.S.",
+          "email": "contacto@textilesantioquia.co",
+          "ubicacion": "Medellín, Antioquia",
+          "contrasena": "textil456",
+          "tipo": "Empresa",
+          "catalogo_productos": [
+            {
+              "nombre": "Tela de Algodón Orgánico",
+              "descripcion": "Tela suave y ecológica, ideal para prendas de vestir.",
+              "precio": 25000,
+              "unidad": "metro"
+            },
+            {
+              "nombre": "Hilos de Poliéster de Alta Resistencia",
+              "descripcion": "Hilos duraderos para la industria de la confección.",
+              "precio": 5000,
+              "unidad": "rollo"
+            }
+          ],
+          "mision": "Ofrecer soluciones textiles innovadoras y sostenibles, contribuyendo al crecimiento de la industria de la moda y el hogar.",
+          "valores": ["Innovación", "Calidad", "Responsabilidad Ambiental", "Servicio al Cliente"],
+          "impacto_social": "Programas de reciclaje de residuos textiles y apoyo a talleres de confección locales.",
+          "calificaciones": {
+            "promedio": 4.2,
+            "total_evaluaciones": 35
+          },
+          "proyectos_innovadores": ["Desarrollo de tejidos inteligentes", "Implementación de procesos de teñido ecológicos"]
+        },
+        {
+          "id": "E0003",
+          "nombre": "Frutas del Trópico Ltda.",
+          "email": "ventas@frutastropico.com.co",
+          "ubicacion": "Cali, Valle del Cauca",
+          "contrasena": "fruta789",
+          "tipo": "Empresa",
+          "catalogo_productos": [
+            {
+              "nombre": "Mango Tommy Atkins",
+              "descripcion": "Mango fresco y dulce de la mejor calidad.",
+              "precio": 3000,
+              "unidad": "unidad"
+            },
+            {
+              "nombre": "Maracuyá Orgánico",
+              "descripcion": "Maracuyá cultivado de forma orgánica.",
+              "precio": 4500,
+              "unidad": "kg"
+            }
+          ],
+          "mision": "Llevar a los hogares y empresas frutas frescas y saludables del trópico colombiano, promoviendo el bienestar y el consumo responsable.",
+          "valores": ["Frescura", "Calidad", "Salud", "Compromiso"],
+          "impacto_social": "Apoyo a pequeños agricultores y prácticas de cultivo sostenible.",
+          "calificaciones": {
+            "promedio": 4.8,
+            "total_evaluaciones": 60
+          },
+          "proyectos_innovadores": ["Desarrollo de conservas naturales de frutas", "Implementación de logística de cadena de frío eficiente"]
+        },
+        {
+            "id": "00001",
+            "nombre": "Olimpica Hogar y Vivienda",
+            "email": "info@olimpicahogaryvivienda.com",
+            "ubicacion": "Colombia",
+            "contrasena": "0000",
+            "tipo": "Empresa",
+            "catalogo_productos": [
+                {
+                    "nombre": "Apartamento Nuevo en Zona Exclusiva",
+                    "descripcion": "Apartamento de 3 habitaciones, 2 baños, balcón con vista panorámica.",
+                    "precio": 350000000,
+                    "unidad": "unidad",
+                    "categoria": "Venta de Casas"
+                },
+                {
+                    "nombre": "Casa Campestre con Piscina Privada",
+                    "descripcion": "Casa de 4 habitaciones, amplias zonas verdes, piscina y BBQ.",
+                    "precio": 550000000,
+                    "unidad": "unidad",
+                    "categoria": "Venta de Casas"
+                },
+                {
+                    "nombre": "Juego de Sala Modular de 5 Piezas",
+                    "descripcion": "Cómodo juego de sala con tapizado de alta calidad.",
+                    "precio": 1200000,
+                    "unidad": "unidad",
+                    "categoria": "Productos del Hogar"
+                },
+                {
+                    "nombre": "Nevera No Frost de 300 Litros",
+                    "descripcion": "Nevera con tecnología de enfriamiento avanzado y bajo consumo energético.",
+                    "precio": 1800000,
+                    "unidad": "unidad",
+                    "categoria": "Productos del Hogar"
+                },
+                {
+                    "nombre": "Arroz Blanco de Primera Calidad",
+                    "descripcion": "Arroz blanco seleccionado, grano largo.",
+                    "precio": 3500,
+                    "unidad": "kg",
+                    "categoria": "Canasta Familiar"
+                },
+                {
+                    "nombre": "Aceite Vegetal Comestible",
+                    "descripcion": "Aceite vegetal puro, ideal para cocinar.",
+                    "precio": 6000,
+                    "unidad": "litro",
+                    "categoria": "Canasta Familiar"
+                }
+                
+            ],
+            "mision": "Ofrecer soluciones integrales para el hogar y la vivienda en Colombia, proporcionando desde opciones residenciales de calidad hasta una amplia gama de productos para el hogar y la canasta familiar, satisfaciendo las necesidades de nuestros clientes con excelencia y compromiso.",
+            "valores": ["Calidad", "Servicio", "Variedad", "Compromiso con el Cliente", "Integridad"],
+            "impacto_social": "Programas de vivienda social (opcional), iniciativas de apoyo a comunidades locales.",
+            "calificaciones": {
+                "promedio": 4.3,
+                "total_evaluaciones": 120
+            },
+            "proyectos_innovadores": ["Plataforma virtual para tours de propiedades", "Implementación de energías renovables en nuevos proyectos de vivienda"]
+        }
+      ]
