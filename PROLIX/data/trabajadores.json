@@ -15,9 +15,9 @@
     },
     {
         "id": "00001",
-        "nombre": "Ana Pérez",
-        "email": "Apérez@email.com",
-        "ubicacion": "Medellín",
+        "nombre": "Ana P\u00e9rez",
+        "email": "Ap\u00e9rez@email.com",
+        "ubicacion": "Medell\u00edn",
         "contrasena": "1111",
         "tipo": "Trabajador",
         "habilidades": [
@@ -29,9 +29,9 @@
     },
     {
         "id": "00002",
-        "nombre": "Juan Rodríguez",
-        "email": "Jrodríguez@email.com",
-        "ubicacion": "Bogotá",
+        "nombre": "Juan Rodr\u00edguez",
+        "email": "Jrodr\u00edguez@email.com",
+        "ubicacion": "Bogot\u00e1",
         "contrasena": "2222",
         "tipo": "Trabajador",
         "habilidades": [
@@ -43,13 +43,13 @@
     },
     {
         "id": "00003",
-        "nombre": "Sofía Gómez",
-        "email": "Sgómez@email.com",
+        "nombre": "Sof\u00eda G\u00f3mez",
+        "email": "Sg\u00f3mez@email.com",
         "ubicacion": "Cali",
         "contrasena": "3333",
         "tipo": "Trabajador",
         "habilidades": [
-            "Diseñadora UX/UI"
+            "Dise\u00f1adora UX/UI"
         ],
         "experiencia_laboral": [],
         "certificaciones": [],
@@ -85,8 +85,8 @@
     },
     {
         "id": "00006",
-        "nombre": "Sebastián Díaz",
-        "email": "Sdíaz@email.com",
+        "nombre": "Sebasti\u00e1n D\u00edaz",
+        "email": "Sd\u00edaz@email.com",
         "ubicacion": "Bucaramanga",
         "contrasena": "6666",
         "tipo": "Trabajador",
@@ -125,118 +125,7 @@
         "certificaciones": [],
         "aspiraciones": null
     },
-    {
-        "id": "00009",
-        "nombre": "Camila López",
-        "email": "Clópez@email.com",
-        "ubicacion": "Villavicencio",
-        "contrasena": "9999",
-        "tipo": "Trabajador",
-        "habilidades": [
-            "Especialista en Logística"
-        ],
-        "experiencia_laboral": [],
-        "certificaciones": [],
-        "aspiraciones": null
-    },
-    {
-        "id": "00010",
-        "nombre": "Andrés Sánchez",
-        "email": "Asánchez@email.com",
-        "ubicacion": "Ibagué",
-        "contrasena": "0101",
-        "tipo": "Trabajador",
-        "habilidades": [
-            "Ingeniero de Software"
-        ],
-        "experiencia_laboral": [],
-        "certificaciones": [],
-        "aspiraciones": null
-    },
-    {
-        "id": "00011",
-        "nombre": "Mariana Gómez",
-        "email": "Mgómez@email.com",
-        "ubicacion": "Cúcuta",
-        "contrasena": "0202",
-        "tipo": "Trabajador",
-        "habilidades": [
-            "Community Manager"
-        ],
-        "experiencia_laboral": [],
-        "certificaciones": [],
-        "aspiraciones": null
-    },
-    {
-        "id": "00012",
-        "nombre": "Daniel Pérez",
-        "email": "Dpérez@email.com",
-        "ubicacion": "Soledad",
-        "contrasena": "0303",
-        "tipo": "Trabajador",
-        "habilidades": [
-            "Analista Financiero"
-        ],
-        "experiencia_laboral": [],
-        "certificaciones": [],
-        "aspiraciones": null
-    },
-    {
-        "id": "00013",
-        "nombre": "Laura Rodríguez",
-        "email": "Lrodríguez@email.com",
-        "ubicacion": "Bello",
-        "contrasena": "0404",
-        "tipo": "Trabajador",
-        "habilidades": [
-            "Diseñadora Gráfica"
-        ],
-        "experiencia_laboral": [],
-        "certificaciones": [],
-        "aspiraciones": null
-    },
-    {
-        "id": "00014",
-        "nombre": "Santiago Vargas",
-        "email": "Svargas@email.com",
-        "ubicacion": "Pasto",
-        "contrasena": "0505",
-        "tipo": "Trabajador",
-        "habilidades": [
-            "Especialista en SEO/SEM"
-        ],
-        "experiencia_laboral": [],
-        "certificaciones": [],
-        "aspiraciones": null
-    },
-    {
-        "id": "00015",
-        "nombre": "Juliana Castro",
-        "email": "Jcastro@email.com",
-        "ubicacion": "Montería",
-        "contrasena": "0606",
-        "tipo": "Trabajador",
-        "habilidades": [
-            "Desarrollador Full-stack"
-        ],
-        "experiencia_laboral": [],
-        "certificaciones": [],
-        "aspiraciones": null
-    },
-    {
-        "id": "00016",
-        "nombre": "Felipe Díaz",
-        "email": "Fdíaz@email.com",
-        "ubicacion": "Valledupar",
-        "contrasena": "0707",
-        "tipo": "Trabajador",
-        "habilidades": [
-            "Gestor de Redes Sociales"
-        ],
-        "experiencia_laboral": [],
-        "certificaciones": [],
-        "aspiraciones": null
-    },
+    
     {
         "id": "00017",
         "nombre": "Manuela Ruiz",
@@ -253,7 +142,7 @@
     },
     {
         "id": "00018",
-        "nombre": "Nicolás Torres",
+        "nombre": "Nicol\u00e1s Torres",
         "email": "Ntorres@email.com",
         "ubicacion": "Sincelejo",
         "contrasena": "0909",
@@ -267,8 +156,8 @@
     },
     {
         "id": "00019",
-        "nombre": "Sara López",
-        "email": "Slópez@email.com",
+        "nombre": "Sara L\u00f3pez",
+        "email": "Sl\u00f3pez@email.com",
         "ubicacion": "Armenia",
         "contrasena": "1010",
         "tipo": "Trabajador",
@@ -278,945 +167,798 @@
         "experiencia_laboral": [],
         "certificaciones": [],
         "aspiraciones": null
-    } ,
-      {
-            "id": "00020",
-            "nombre": "Daniela Martínez",
-            "email": "Dmartínez@email.com",
-            "ubicacion": "Riohacha",
-            "contrasena": "1235",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Analista de Marketing Digital"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00021",
-            "nombre": "Esteban González",
-            "email": "Egonzález@email.com",
-            "ubicacion": "Sincelejo",
-            "contrasena": "6789",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Desarrollador Móvil (Android)"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00022",
-            "nombre": "Camila Fernández",
-            "email": "Cfernández@email.com",
-            "ubicacion": "Tunja",
-            "contrasena": "0123",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Especialista en Contenido"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00023",
-            "nombre": "Alejandro Pérez",
-            "email": "Apérez@email.com",
-            "ubicacion": "Quibdó",
-            "contrasena": "4567",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Ingeniero de Redes"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00024",
-            "nombre": "Valeria Sánchez",
-            "email": "Vsánchez@email.com",
-            "ubicacion": "Yopal",
-            "contrasena": "8901",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Diseñador Web"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00025",
-            "nombre": "Sebastián Ramírez",
-            "email": "Sramírez@email.com",
-            "ubicacion": "Florencia",
-            "contrasena": "2345",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Analista de Sistemas"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00026",
-            "nombre": "Mariana Flores",
-            "email": "Mflores@email.com",
-            "ubicacion": "Arauca",
-            "contrasena": "6789",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Gestor de Proyectos Sociales"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00027",
-            "nombre": "Andrés Jiménez",
-            "email": "Ajiménez@email.com",
-            "ubicacion": "San Andrés",
-            "contrasena": "0123",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Especialista en Ciberseguridad"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00028",
-            "nombre": "Laura Díaz",
-            "email": "Ldíaz@email.com",
-            "ubicacion": "Leticia",
-            "contrasena": "4567",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Desarrollador de Videojuegos"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00029",
-            "nombre": "Nicolás Ortega",
-            "email": "Nortega@email.com",
-            "ubicacion": "Puerto Carreño",
-            "contrasena": "8901",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Analista de Inteligencia de Negocios"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00030",
-            "nombre": "Daniela Rojas",
-            "email": "Drojas@email.com",
-            "ubicacion": "Mitú",
-            "contrasena": "2345",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Especialista en Marketing de Contenidos"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00031",
-            "nombre": "Esteban Torres",
-            "email": "Etorres@email.com",
-            "ubicacion": "Inírida",
-            "contrasena": "6789",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Ingeniero DevOps"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00032",
-            "nombre": "Camila Vargas",
-            "email": "Cvargas@email.com",
-            "ubicacion": "Pitalito",
-            "contrasena": "0123",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Diseñador Instruccional"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00033",
-            "nombre": "Alejandro Castro",
-            "email": "Acastro@email.com",
-            "ubicacion": "Ipiales",
-            "contrasena": "4567",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Administrador de Bases de Datos"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00034",
-            "nombre": "Valeria Ruiz",
-            "email": "Vruiz@email.com",
-            "ubicacion": "Sogamoso",
-            "contrasena": "8901",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Desarrollador Móvil (iOS)"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00035",
-            "nombre": "Sebastián López",
-            "email": "Slópez@email.com",
-            "ubicacion": "Girardot",
-            "contrasena": "2345",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Analista de Calidad de Software"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00036",
-            "nombre": "Mariana Sánchez",
-            "email": "Msánchez@email.com",
-            "ubicacion": "Chía",
-            "contrasena": "6789",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Especialista en Email Marketing"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00037",
-            "nombre": "Andrés Ramírez",
-            "email": "Aramírez@email.com",
-            "ubicacion": "Zipaquirá",
-            "contrasena": "0123",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Ingeniero de Machine Learning"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00038",
-            "nombre": "Laura Flores",
-            "email": "Lflores@email.com",
-            "ubicacion": "Palmira",
-            "contrasena": "4567",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Diseñador de Animación"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00039",
-            "nombre": "Nicolás Jiménez",
-            "email": "Njiménez@email.com",
-            "ubicacion": "Cartago",
-            "contrasena": "8901",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Administrador de Servidores"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00040",
-            "nombre": "Daniela Díaz",
-            "email": "Ddíaz@email.com",
-            "ubicacion": "Tulúa",
-            "contrasena": "2345",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Especialista en SEO Técnico"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00041",
-            "nombre": "Esteban Ortega",
-            "email": "Eortega@email.com",
-            "ubicacion": "Buga",
-            "contrasena": "6789",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Desarrollador de Realidad Virtual"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00042",
-            "nombre": "Camila Rojas",
-            "email": "Crojas@email.com",
-            "ubicacion": "Soacha",
-            "contrasena": "0123",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Diseñador de Experiencia de Usuario"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00043",
-            "nombre": "Alejandro Torres",
-            "email": "Atorres@email.com",
-            "ubicacion": "Envigado",
-            "contrasena": "4567",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Administrador de Proyectos"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00044",
-            "nombre": "Valeria Vargas",
-            "email": "Vvargas@email.com",
-            "ubicacion": "Itagüí",
-            "contrasena": "8901",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Desarrollador de Inteligencia Artificial"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00045",
-            "nombre": "Sebastián Castro",
-            "email": "Scastro@email.com",
-            "ubicacion": "Villavicencio",
-            "contrasena": "2345",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Analista de Riesgos"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00046",
-            "nombre": "Mariana Ruiz",
-            "email": "Mruiz@email.com",
-            "ubicacion": "Neiva",
-            "contrasena": "6789",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Especialista en Publicidad Online"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00047",
-            "nombre": "Andrés López",
-            "email": "Alópez@email.com",
-            "ubicacion": "Armenia",
-            "contrasena": "0123",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Ingeniero de Automatización"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00048",
-            "nombre": "Laura Sánchez",
-            "email": "Lsánchez@email.com",
-            "ubicacion": "Pereira",
-            "contrasena": "4567",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Diseñador de Interfaces"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00049",
-            "nombre": "Nicolás Ramírez",
-            "email": "Nramírez@email.com",
-            "ubicacion": "Manizales",
-            "contrasena": "8901",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Administrador de Sistemas Linux"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00050",
-            "nombre": "Daniela Flores",
-            "email": "Dflores@email.com",
-            "ubicacion": "Sincelejo",
-            "contrasena": "2345",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Especialista en Email Marketing"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00051",
-            "nombre": "Esteban Jiménez",
-            "email": "Ejiménez@email.com",
-            "ubicacion": "Valledupar",
-            "contrasena": "6789",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Desarrollador de Aplicaciones Híbridas"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        {
-            "id": "00052",
-            "nombre": "Camila Díaz",
-            "email": "Cdíaz@email.com",
-            "ubicacion": "Monteria",
-            "contrasena": "0123",
-            "tipo": "Trabajador",
-            "habilidades": [
-                "Diseñador de Logos e Imagen Corporativa"
-            ],
-            "experiencia_laboral": [],
-            "certificaciones": [],
-            "aspiraciones": null
-        },
-        
-            {
-                "id": "00020",
-                "nombre": "Martín Fernández",
-                "email": "Mfernández@email.com",
-                "ubicacion": "Riohacha",
-                "contrasena": "1122",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Analista de Riesgos"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00021",
-                "nombre": "Camila Pérez",
-                "email": "Cpérez@email.com",
-                "ubicacion": "Tunja",
-                "contrasena": "2233",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Diseñador Instruccional"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00022",
-                "nombre": "Nicolás Sánchez",
-                "email": "Nsánchez@email.com",
-                "ubicacion": "Quibdó",
-                "contrasena": "3344",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Ingeniero Civil"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00023",
-                "nombre": "Sara Ramírez",
-                "email": "Sramírez@email.com",
-                "ubicacion": "Yopal",
-                "contrasena": "4455",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Trabajador Social"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00024",
-                "nombre": "Alejandro Flores",
-                "email": "Aflores@email.com",
-                "ubicacion": "Arauca",
-                "contrasena": "5566",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Técnico en Mantenimiento"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00025",
-                "nombre": "Daniel Jiménez",
-                "email": "Djiménez@email.com",
-                "ubicacion": "Leticia",
-                "contrasena": "6677",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Biólogo"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00026",
-                "nombre": "Valeria Díaz",
-                "email": "Vdíaz@email.com",
-                "ubicacion": "Puerto Carreño",
-                "contrasena": "7788",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Enfermera"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00027",
-                "nombre": "Sebastián Ortega",
-                "email": "Sortega@email.com",
-                "ubicacion": "San José del Guaviare",
-                "contrasena": "8899",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Abogado"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00028",
-                "nombre": "Isabella Martínez",
-                "email": "Imartínez@email.com",
-                "ubicacion": "Mitú",
-                "contrasena": "9900",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Comunicador Social"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00029",
-                "nombre": "Gabriel González",
-                "email": "Ggonzález@email.com",
-                "ubicacion": "Inírida",
-                "contrasena": "0110",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Economista"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00030",
-                "nombre": "Camila Fernández",
-                "email": "Cfernández@email.com",
-                "ubicacion": "Popayán",
-                "contrasena": "1221",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Arquitecto"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00031",
-                "nombre": "Andrés Pérez",
-                "email": "Apérez@email.com",
-                "ubicacion": "Sincelejo",
-                "contrasena": "2332",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Ingeniero Industrial"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00032",
-                "nombre": "Sofía Sánchez",
-                "email": "Ssánchez@email.com",
-                "ubicacion": "Valledupar",
-                "contrasena": "3443",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Psicólogo"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00033",
-                "nombre": "Mateo Ramírez",
-                "email": "Mramírez@email.com",
-                "ubicacion": "Pasto",
-                "contrasena": "4554",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Contador Público"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00034",
-                "nombre": "Ana Flores",
-                "email": "Aflores@email.com",
-                "ubicacion": "Montería",
-                "contrasena": "5665",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Administrador de Empresas"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00035",
-                "nombre": "Juan Jiménez",
-                "email": "Jjiménez@email.com",
-                "ubicacion": "Neiva",
-                "contrasena": "6776",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Mercadólogo"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00036",
-                "nombre": "Valentina Díaz",
-                "email": "Vdíaz@email.com",
-                "ubicacion": "Armenia",
-                "contrasena": "7887",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Diseñador de Modas"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00037",
-                "nombre": "Sebastián Ortega",
-                "email": "Sortega@email.com",
-                "ubicacion": "Manizales",
-                "contrasena": "8998",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Chef"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00038",
-                "nombre": "Isabella Martínez",
-                "email": "Imartínez@email.com",
-                "ubicacion": "Pereira",
-                "contrasena": "9009",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Periodista"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00039",
-                "nombre": "Gabriel González",
-                "email": "Ggonzález@email.com",
-                "ubicacion": "Bucaramanga",
-                "contrasena": "0110",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Fisioterapeuta"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00040",
-                "nombre": "Camila Fernández",
-                "email": "Cfernández@email.com",
-                "ubicacion": "Cartagena",
-                "contrasena": "1221",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Guía Turístico"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00041",
-                "nombre": "Andrés Pérez",
-                "email": "Apérez@email.com",
-                "ubicacion": "Barranquilla",
-                "contrasena": "2332",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Ingeniero Eléctrico"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00042",
-                "nombre": "Sofía Sánchez",
-                "email": "Ssánchez@email.com",
-                "ubicacion": "Cali",
-                "contrasena": "3443",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Terapeuta Ocupacional"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00043",
-                "nombre": "Mateo Ramírez",
-                "email": "Mramírez@email.com",
-                "ubicacion": "Medellín",
-                "contrasena": "4554",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Auditor Interno"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00044",
-                "nombre": "Ana Flores",
-                "email": "Aflores@email.com",
-                "ubicacion": "Bogotá",
-                "contrasena": "5665",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Analista de Crédito"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00045",
-                "nombre": "Juan Jiménez",
-                "email": "Jjiménez@email.com",
-                "ubicacion": "Santa Marta",
-                "contrasena": "6776",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Representante de Ventas"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00046",
-                "nombre": "Valentina Díaz",
-                "email": "Vdíaz@email.com",
-                "ubicacion": "Riohacha",
-                "contrasena": "7887",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Diseñador de Interiores"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00047",
-                "nombre": "Sebastián Ortega",
-                "email": "Sortega@email.com",
-                "ubicacion": "Tunja",
-                "contrasena": "8998",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Panadero"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00048",
-                "nombre": "Isabella Martínez",
-                "email": "Imartínez@email.com",
-                "ubicacion": "Quibdó",
-                "contrasena": "9009",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Fotógrafo"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00049",
-                "nombre": "Gabriel González",
-                "email": "Ggonzález@email.com",
-                "ubicacion": "Yopal",
-                "contrasena": "0110",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Entrenador Personal"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00050",
-                "nombre": "Camila Fernández",
-                "email": "Cfernández@email.com",
-                "ubicacion": "Arauca",
-                "contrasena": "1221",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Bacteriólogo"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00051",
-                "nombre": "Andrés Pérez",
-                "email": "Apérez@email.com",
-                "ubicacion": "Leticia",
-                "contrasena": "2332",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Electricista"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00052",
-                "nombre": "Sofía Sánchez",
-                "email": "Ssánchez@email.com",
-                "ubicacion": "Puerto Carreño",
-                "contrasena": "3443",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Farmacéutico"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            },
-            {
-                "id": "00053",
-                "nombre": "Mateo Ramírez",
-                "email": "Mramírez@email.com",
-                "ubicacion": "San José del Guaviare",
-                "contrasena": "4554",
-                "tipo": "Trabajador",
-                "habilidades": [
-                    "Historiador"
-                ],
-                "experiencia_laboral": [],
-                "certificaciones": [],
-                "aspiraciones": null
-            }
-            
+    },
+    {
+        "id": "00020",
+        "nombre": "Daniela Mart\u00ednez",
+        "email": "Dmart\u00ednez@email.com",
+        "ubicacion": "Riohacha",
+        "contrasena": "1235",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Analista de Marketing Digital"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00021",
+        "nombre": "Esteban Gonz\u00e1lez",
+        "email": "Egonz\u00e1lez@email.com",
+        "ubicacion": "Sincelejo",
+        "contrasena": "6789",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Desarrollador M\u00f3vil (Android)"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00022",
+        "nombre": "Camila Fern\u00e1ndez",
+        "email": "Cfern\u00e1ndez@email.com",
+        "ubicacion": "Tunja",
+        "contrasena": "0123",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Especialista en Contenido"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    
+    {
+        "id": "00024",
+        "nombre": "Valeria S\u00e1nchez",
+        "email": "Vs\u00e1nchez@email.com",
+        "ubicacion": "Yopal",
+        "contrasena": "8901",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Dise\u00f1ador Web"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00025",
+        "nombre": "Sebasti\u00e1n Ram\u00edrez",
+        "email": "Sram\u00edrez@email.com",
+        "ubicacion": "Florencia",
+        "contrasena": "2345",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Analista de Sistemas"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00026",
+        "nombre": "Mariana Flores",
+        "email": "Mflores@email.com",
+        "ubicacion": "Arauca",
+        "contrasena": "6789",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Gestor de Proyectos Sociales"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    
+    {
+        "id": "00028",
+        "nombre": "Laura D\u00edaz",
+        "email": "Ld\u00edaz@email.com",
+        "ubicacion": "Leticia",
+        "contrasena": "4567",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Desarrollador de Videojuegos"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    
+    {
+        "id": "00030",
+        "nombre": "Daniela Rojas",
+        "email": "Drojas@email.com",
+        "ubicacion": "Mit\u00fa",
+        "contrasena": "2345",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Especialista en Marketing de Contenidos"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    
+    {
+        "id": "00032",
+        "nombre": "Camila Vargas",
+        "email": "Cvargas@email.com",
+        "ubicacion": "Pitalito",
+        "contrasena": "0123",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Dise\u00f1ador Instruccional"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00033",
+        "nombre": "Alejandro Castro",
+        "email": "Acastro@email.com",
+        "ubicacion": "Ipiales",
+        "contrasena": "4567",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Administrador de Bases de Datos"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00034",
+        "nombre": "Valeria Ruiz",
+        "email": "Vruiz@email.com",
+        "ubicacion": "Sogamoso",
+        "contrasena": "8901",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Desarrollador M\u00f3vil (iOS)"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00035",
+        "nombre": "Sebasti\u00e1n L\u00f3pez",
+        "email": "Sl\u00f3pez@email.com",
+        "ubicacion": "Girardot",
+        "contrasena": "2345",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Analista de Calidad de Software"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    
+    {
+        "id": "00037",
+        "nombre": "Andr\u00e9s Ram\u00edrez",
+        "email": "Aram\u00edrez@email.com",
+        "ubicacion": "Zipaquira",
+        "contrasena": "0123",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Ingeniero de Machine Learning"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00038",
+        "nombre": "Laura Flores",
+        "email": "Lflores@email.com",
+        "ubicacion": "Palmira",
+        "contrasena": "4567",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Dise\u00f1ador de Animaci\u00f3n"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00039",
+        "nombre": "Nicol\u00e1s Jim\u00e9nez",
+        "email": "Njim\u00e9nez@email.com",
+        "ubicacion": "Cartago",
+        "contrasena": "8901",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Administrador de Servidores"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00040",
+        "nombre": "Daniela D\u00edaz",
+        "email": "Dd\u00edaz@email.com",
+        "ubicacion": "Tulua",
+        "contrasena": "2345",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Especialista en SEO T\u00e9cnico"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00041",
+        "nombre": "Esteban Ortega",
+        "email": "Eortega@email.com",
+        "ubicacion": "Buga",
+        "contrasena": "6789",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Desarrollador de Realidad Virtual"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00042",
+        "nombre": "Camila Rojas",
+        "email": "Crojas@email.com",
+        "ubicacion": "Soacha",
+        "contrasena": "0123",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Dise\u00f1ador de Experiencia de Usuario"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00043",
+        "nombre": "Alejandro Torres",
+        "email": "Atorres@email.com",
+        "ubicacion": "Envigado",
+        "contrasena": "4567",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Administrador de Proyectos"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    
+    {
+        "id": "00045",
+        "nombre": "Sebasti\u00e1n Castro",
+        "email": "Scastro@email.com",
+        "ubicacion": "Villavicencio",
+        "contrasena": "2345",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Analista de Riesgos"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00046",
+        "nombre": "Mariana Ruiz",
+        "email": "Mruiz@email.com",
+        "ubicacion": "Neiva",
+        "contrasena": "6789",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Especialista en Publicidad Online"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00047",
+        "nombre": "Andr\u00e9s L\u00f3pez",
+        "email": "Al\u00f3pez@email.com",
+        "ubicacion": "Armenia",
+        "contrasena": "0123",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Ingeniero de Automatizaci\u00f3n"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00048",
+        "nombre": "Laura S\u00e1nchez",
+        "email": "Ls\u00e1nchez@email.com",
+        "ubicacion": "Pereira",
+        "contrasena": "4567",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Dise\u00f1ador de Interfaces"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00049",
+        "nombre": "Nicol\u00e1s Ram\u00edrez",
+        "email": "Nram\u00edrez@email.com",
+        "ubicacion": "Manizales",
+        "contrasena": "8901",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Administrador de Sistemas Linux"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00050",
+        "nombre": "Daniela Flores",
+        "email": "Dflores@email.com",
+        "ubicacion": "Sincelejo",
+        "contrasena": "2345",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Especialista en Email Marketing"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00051",
+        "nombre": "Esteban Jim\u00e9nez",
+        "email": "Ejim\u00e9nez@email.com",
+        "ubicacion": "Valledupar",
+        "contrasena": "6789",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Desarrollador de Aplicaciones H\u00edbridas"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00052",
+        "nombre": "Camila D\u00edaz",
+        "email": "Cd\u00edaz@email.com",
+        "ubicacion": "Monteria",
+        "contrasena": "0123",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Dise\u00f1ador de Logos e Imagen Corporativa"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00020",
+        "nombre": "Mart\u00edn Fern\u00e1ndez",
+        "email": "Mfern\u00e1ndez@email.com",
+        "ubicacion": "Riohacha",
+        "contrasena": "1122",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Analista de Riesgos"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00021",
+        "nombre": "Camila P\u00e9rez",
+        "email": "Cp\u00e9rez@email.com",
+        "ubicacion": "Tunja",
+        "contrasena": "2233",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Dise\u00f1ador Instruccional"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00022",
+        "nombre": "Nicol\u00e1s S\u00e1nchez",
+        "email": "Ns\u00e1nchez@email.com",
+        "ubicacion": "Quibdo",
+        "contrasena": "3344",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Ingeniero Civil"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00023",
+        "nombre": "Sara Ram\u00edrez",
+        "email": "Sram\u00edrez@email.com",
+        "ubicacion": "Yopal",
+        "contrasena": "4455",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Trabajador Social"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00024",
+        "nombre": "Alejandro Flores",
+        "email": "Aflores@email.com",
+        "ubicacion": "Arauca",
+        "contrasena": "5566",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "T\u00e9cnico en Mantenimiento"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00025",
+        "nombre": "Daniel Jim\u00e9nez",
+        "email": "Djim\u00e9nez@email.com",
+        "ubicacion": "Leticia",
+        "contrasena": "6677",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Bi\u00f3logo"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    
+    
+    {
+        "id": "00031",
+        "nombre": "Andr\u00e9s P\u00e9rez",
+        "email": "Ap\u00e9rez@email.com",
+        "ubicacion": "Sincelejo",
+        "contrasena": "2332",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Ingeniero Industrial"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00032",
+        "nombre": "Sof\u00eda S\u00e1nchez",
+        "email": "Ss\u00e1nchez@email.com",
+        "ubicacion": "Valledupar",
+        "contrasena": "3443",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Psic\u00f3logo"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00033",
+        "nombre": "Mateo Ram\u00edrez",
+        "email": "Mram\u00edrez@email.com",
+        "ubicacion": "Pasto",
+        "contrasena": "4554",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Contador P\u00fablico"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00034",
+        "nombre": "Ana Flores",
+        "email": "Aflores@email.com",
+        "ubicacion": "Monteria",
+        "contrasena": "5665",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Administrador de Empresas"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00035",
+        "nombre": "Juan Jim\u00e9nez",
+        "email": "Jjim\u00e9nez@email.com",
+        "ubicacion": "Neiva",
+        "contrasena": "6776",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Mercad\u00f3logo"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00036",
+        "nombre": "Valentina D\u00edaz",
+        "email": "Vd\u00edaz@email.com",
+        "ubicacion": "Armenia",
+        "contrasena": "7887",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Dise\u00f1ador de Modas"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00037",
+        "nombre": "Sebasti\u00e1n Ortega",
+        "email": "Sortega@email.com",
+        "ubicacion": "Manizales",
+        "contrasena": "8998",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Chef"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00038",
+        "nombre": "Isabella Mart\u00ednez",
+        "email": "Imart\u00ednez@email.com",
+        "ubicacion": "Pereira",
+        "contrasena": "9009",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Periodista"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00039",
+        "nombre": "Gabriel Gonz\u00e1lez",
+        "email": "Ggonz\u00e1lez@email.com",
+        "ubicacion": "Bucaramanga",
+        "contrasena": "0110",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Fisioterapeuta"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00040",
+        "nombre": "Camila Fern\u00e1ndez",
+        "email": "Cfern\u00e1ndez@email.com",
+        "ubicacion": "Cartagena",
+        "contrasena": "1221",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Gu\u00eda Tur\u00edstico"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00041",
+        "nombre": "Andr\u00e9s P\u00e9rez",
+        "email": "Ap\u00e9rez@email.com",
+        "ubicacion": "Barranquilla",
+        "contrasena": "2332",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Ingeniero El\u00e9ctrico"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00042",
+        "nombre": "Sof\u00eda S\u00e1nchez",
+        "email": "Ss\u00e1nchez@email.com",
+        "ubicacion": "Cali",
+        "contrasena": "3443",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Terapeuta Ocupacional"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00043",
+        "nombre": "Mateo Ram\u00edrez",
+        "email": "Mram\u00edrez@email.com",
+        "ubicacion": "Medellin",
+        "contrasena": "4554",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Auditor Interno"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00044",
+        "nombre": "Ana Flores",
+        "email": "Aflores@email.com",
+        "ubicacion": "Bogota",
+        "contrasena": "5665",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Analista de Cr\u00e9dito"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00045",
+        "nombre": "Juan Jim\u00e9nez",
+        "email": "Jjim\u00e9nez@email.com",
+        "ubicacion": "Santa Marta",
+        "contrasena": "6776",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Representante de Ventas"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00046",
+        "nombre": "Valentina D\u00edaz",
+        "email": "Vd\u00edaz@email.com",
+        "ubicacion": "Riohacha",
+        "contrasena": "7887",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Dise\u00f1ador de Interiores"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00047",
+        "nombre": "Sebasti\u00e1n Ortega",
+        "email": "Sortega@email.com",
+        "ubicacion": "Tunja",
+        "contrasena": "8998",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Panadero"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00048",
+        "nombre": "Isabella Mart\u00ednez",
+        "email": "Imart\u00ednez@email.com",
+        "ubicacion": "Quibdo",
+        "contrasena": "9009",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Fot\u00f3grafo"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00049",
+        "nombre": "Gabriel Gonz\u00e1lez",
+        "email": "Ggonz\u00e1lez@email.com",
+        "ubicacion": "Yopal",
+        "contrasena": "0110",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Entrenador Personal"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00050",
+        "nombre": "Camila Fern\u00e1ndez",
+        "email": "Cfern\u00e1ndez@email.com",
+        "ubicacion": "Arauca",
+        "contrasena": "1221",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Bacteri\u00f3logo"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "00051",
+        "nombre": "Andr\u00e9s P\u00e9rez",
+        "email": "Ap\u00e9rez@email.com",
+        "ubicacion": "Leticia",
+        "contrasena": "2332",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Electricista"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    
+    {
+        "id": "00053",
+        "nombre": "Mateo Ram\u00edrez",
+        "email": "Mram\u00edrez@email.com",
+        "ubicacion": "San Jose del Guaviare",
+        "contrasena": "4554",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Historiador"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    },
+    {
+        "id": "8788",
+        "nombre": "Luis Antonio Diaz Romero",
+        "email": "Ldiaz@email.com",
+        "ubicacion": "Valledupar",
+        "contrasena": "8888",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Ingeniero Software"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    }
 ]

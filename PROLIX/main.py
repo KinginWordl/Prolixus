@@ -129,8 +129,14 @@ def cargar_datos(ruta_archivo, clase):
         with open(ruta_archivo, 'r') as archivo:
             datos = json.load(archivo)
             for dato in datos:
-                usuario = clase(**dato)
-                usuarios.append(usuario)
+                # Crear un nuevo diccionario sin la clave 'tipo'
+                dato_sin_tipo = {k: v for k, v in dato.items() if k != 'tipo'}
+                try:
+                    usuario = clase(**dato_sin_tipo)
+                    usuarios.append(usuario)
+                except TypeError as e:
+                    print(f"Error al crear objeto de {clase.__name__}: {e}")
+                    print(f"Datos problemáticos: {dato}")
     except FileNotFoundError:
         pass
     except json.JSONDecodeError:
@@ -214,7 +220,7 @@ def iniciar_sesion():
 
     for usuario in todos_los_usuarios:
         if usuario.email == email_usuario and usuario.verificar_contrasena(contrasena):
-            print(f"\n¡Inicio de sesión exitoso para {usuario.nombre} ({usuario.tipo})!")
+            print(f"\n¡Inicio de sesión exitoso para {usuario.nombre} ({usuario.tipo})! Bienvenido a Prolix")
             # Aquí podrías implementar la lógica para la sesión del usuario
             return usuario
     print("\nCredenciales incorrectas. Intente nuevamente.")
