@@ -1,0 +1,16 @@
+[
+    {
+        "id": "00000",
+        "nombre": "Carlos Lemus",
+        "email": "Clemus@email.com",
+        "ubicacion": "Santa Marta",
+        "contrasena": "0000",
+        "tipo": "Trabajador",
+        "habilidades": [
+            "Profesional en negocios internacionales"
+        ],
+        "experiencia_laboral": [],
+        "certificaciones": [],
+        "aspiraciones": null
+    }
+]

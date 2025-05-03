@@ -1,0 +1,16 @@
+[
+    {
+        "id": "00001",
+        "nombre": "Olimpica",
+        "email": "Tolimpica@gmail.com",
+        "ubicacion": "Colombia",
+        "contrasena": "0000",
+        "tipo": "Empresa",
+        "catalogo_productos": [],
+        "mision": null,
+        "valores": null,
+        "impacto_social": null,
+        "calificaciones": {},
+        "proyectos_innovadores": []
+    }
+]
