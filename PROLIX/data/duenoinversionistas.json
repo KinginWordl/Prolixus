@@ -1,0 +1,82 @@
+[
+    {
+      "id": "0001",
+      "nombre": "Luntony",
+      "email": "Ltony@email.com",
+      "ubicacion": "Cali",
+      "contrasena": "0000",
+      "tipo": "Inversionista"
+    },
+    {
+      "id": "0002",
+      "nombre": "Mariana Gómez",
+      "email": "m.gomez@inversor.co",
+      "ubicacion": "Medellín",
+      "contrasena": "1111",
+      "tipo": "Inversionista"
+    },
+    {
+      "id": "0003",
+      "nombre": "Carlos Pérez",
+      "email": "c.perez@capitales.net",
+      "ubicacion": "Bogotá",
+      "contrasena": "2222",
+      "tipo": "Inversionista"
+    },
+    {
+      "id": "0004",
+      "nombre": "Sofía Vargas",
+      "email": "s.vargas@fondo.org",
+      "ubicacion": "Barranquilla",
+      "contrasena": "3333",
+      "tipo": "Inversionista"
+    },
+    {
+      "id": "0005",
+      "nombre": "Javier Ríos",
+      "email": "j.rios@accion.com",
+      "ubicacion": "Cali",
+      "contrasena": "4444",
+      "tipo": "Inversionista"
+    },
+    {
+      "id": "0006",
+      "nombre": "Isabella Castro",
+      "email": "i.castro@equity.io",
+      "ubicacion": "Medellín",
+      "contrasena": "5555",
+      "tipo": "Inversionista"
+    },
+    {
+      "id": "0007",
+      "nombre": "Andrés Torres",
+      "email": "a.torres@holding.biz",
+      "ubicacion": "Bogotá",
+      "contrasena": "6666",
+      "tipo": "Inversionista"
+    },
+    {
+      "id": "0008",
+      "nombre": "Valentina Ruiz",
+      "email": "v.ruiz@portafolio.info",
+      "ubicacion": "Barranquilla",
+      "contrasena": "7777",
+      "tipo": "Inversionista"
+    },
+    {
+      "id": "0009",
+      "nombre": "Sebastián López",
+      "email": "s.lopez@inversionistas.co",
+      "ubicacion": "Cali",
+      "contrasena": "8888",
+      "tipo": "Inversionista"
+    },
+    {
+      "id": "0010",
+      "nombre": "Daniela Jiménez",
+      "email": "d.jimenez@capitalactivo.net",
+      "ubicacion": "Medellín",
+      "contrasena": "9999",
+      "tipo": "Inversionista"
+    }
+  ]
