@@ -106,7 +106,7 @@ RUTA_COMPRADORES = 'data/compradores.json'
 RUTA_DUENOINVERSIONISTAS = 'data/duenoinversionistas.json'
 RUTA_PROVEEDORES = 'data/proveedores.json'
 
-# --- Funciones para los menús de cada rol (MOVER ANTES DEL if __name__ == "__main__":) ---
+# --- Funciones para los menús de cada rol ---
 def menu_comprador(comprador):
     print(f"\n--- Menú de Comprador ({comprador.nombre}) ---")
     while True:
