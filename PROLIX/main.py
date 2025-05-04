@@ -106,6 +106,115 @@ RUTA_COMPRADORES = 'data/compradores.json'
 RUTA_DUENOINVERSIONISTAS = 'data/duenoinversionistas.json'
 RUTA_PROVEEDORES = 'data/proveedores.json'
 
+# --- Funciones para los menús de cada rol (MOVER ANTES DEL if __name__ == "__main__":) ---
+def menu_comprador(comprador):
+    print(f"\n--- Menú de Comprador ({comprador.nombre}) ---")
+    while True:
+        print("1. Buscar Productos/Servicios")
+        print("2. Ver Perfil")
+        print("3. Cerrar Sesión")
+        opcion = input("Seleccione una opción: ")
+        if opcion == '1':
+            print("Implementar búsqueda de productos/servicios...")
+        elif opcion == '2':
+            print(f"Mostrando perfil: {comprador}")
+        elif opcion == '3':
+            print("Cerrando sesión de Comprador.")
+            break
+        else:
+            print("Opción inválida.")
+
+def menu_empresa(empresa):
+    print(f"\n--- Menú de Empresa ({empresa.nombre}) ---")
+    while True:
+        print("1. Gestionar Catálogo")
+        print("2. Buscar Proveedores/Colaboradores")
+        print("3. Ver Calificaciones")
+        print("4. Cerrar Sesión")
+        opcion = input("Seleccione una opción: ")
+        if opcion == '1':
+            print("Implementar gestión de catálogo...")
+        elif opcion == '2':
+            print("Implementar búsqueda de proveedores/colaboradores...")
+        elif opcion == '3':
+            print(f"Mostrando calificaciones: {empresa.calificaciones}")
+        elif opcion == '4':
+            print("Cerrando sesión de Empresa.")
+            break
+        else:
+            print("Opción inválida.")
+
+def menu_trabajador(trabajador):
+    print(f"\n--- Menú de Trabajador ({trabajador.nombre}) ---")
+    while True:
+        print("1. Ver Perfil")
+        print("2. Buscar Oportunidades (opcional)")
+        print("3. Cerrar Sesión")
+        opcion = input("Seleccione una opción: ")
+        if opcion == '1':
+            print(f"Mostrando perfil: {trabajador}")
+        elif opcion == '2':
+            print("Implementar búsqueda de oportunidades...")
+        elif opcion == '3':
+            print("Cerrando sesión de Trabajador.")
+            break
+        else:
+            print("Opción inválida.")
+
+def menu_coordinador(coordinador):
+    print(f"\n--- Menú de Coordinador ({coordinador.nombre}) ---")
+    while True:
+        print("1. Buscar Talento")
+        print("2. Ver Perfil")
+        print("3. Cerrar Sesión")
+        opcion = input("Seleccione una opción: ")
+        if opcion == '1':
+            print("Implementar búsqueda de talento...")
+        elif opcion == '2':
+            print(f"Mostrando perfil: {coordinador}")
+        elif opcion == '3':
+            print("Cerrando sesión de Coordinador.")
+            break
+        else:
+            print("Opción inválida.")
+
+def menu_inversionista(inversionista):
+    print(f"\n--- Menú de Inversionista ({inversionista.nombre}) ---")
+    while True:
+        print("1. Ver Perfil")
+        print("2. Explorar Oportunidades (opcional)")
+        print("3. Cerrar Sesión")
+        opcion = input("Seleccione una opción: ")
+        if opcion == '1':
+            print(f"Mostrando perfil: {inversionista}")
+        elif opcion == '2':
+            print("Implementar exploración de oportunidades...")
+        elif opcion == '3':
+            print("Cerrando sesión de Inversionista.")
+            break
+        else:
+            print("Opción inválida.")
+
+def menu_proveedor_colaborador(proveedor):
+    print(f"\n--- Menú de Proveedor/Colaborador ({proveedor.nombre}) ---")
+    while True:
+        print("1. Gestionar Servicios/Materiales")
+        print("2. Ver Perfil")
+        print("3. Buscar Empresas (opcional)")
+        print("4. Cerrar Sesión")
+        opcion = input("Seleccione una opción: ")
+        if opcion == '1':
+            print("Implementar gestión de servicios/materiales...")
+        elif opcion == '2':
+            print(f"Mostrando perfil: {proveedor}")
+        elif opcion == '3':
+            print("Implementar búsqueda de empresas...")
+        elif opcion == '4':
+            print("Cerrando sesión de Proveedor/Colaborador.")
+            break
+        else:
+            print("Opción inválida.")
+
 # --- Funciones para guardar datos (modificada para incluir contraseña) ---
 def guardar_datos(ruta_archivo, objeto):
     try:
@@ -201,49 +310,3 @@ def crear_usuario():
         print(proveedor)
     else:
         print("Opción inválida.")
-
-# --- Función para iniciar sesión (usando email y contraseña) ---
-def iniciar_sesion():
-    print("--- Inicio de Sesión ---")
-    email_usuario = input("Ingrese su correo electrónico: ")
-    contrasena = input("Ingrese su contraseña de 4 cifras: ")
-
-    # Cargar todos los tipos de usuarios y buscar el email y la contraseña
-    trabajadores = cargar_datos(RUTA_TRABAJADORES, Trabajador)
-    coordinadores = cargar_datos(RUTA_COORDINADORES, Coordinador)
-    empresas = cargar_datos(RUTA_EMPRESAS, Empresa)
-    compradores = cargar_datos(RUTA_COMPRADORES, Comprador)
-    duenos_inversores = cargar_datos(RUTA_DUENOINVERSIONISTAS, DuenoInversionista)
-    proveedores = cargar_datos(RUTA_PROVEEDORES, ProveedorColaborador)
-
-    todos_los_usuarios = trabajadores + coordinadores + empresas + compradores + duenos_inversores + proveedores
-
-    for usuario in todos_los_usuarios:
-        if usuario.email == email_usuario and usuario.verificar_contrasena(contrasena):
-            print(f"¡Inicio de sesión exitoso para {usuario.nombre} ({usuario.tipo})! Bienvenido a Prolix")
-           
-            return usuario
-    print("Credenciales incorrectas. Intente nuevamente.")
-    return None
-
-if __name__ == "__main__":
-    while True:
-        print("--- Menú Principal ---")
-        print("1. Crear Nuevo Usuario")
-        print("2. Iniciar Sesión")
-        print("3. Salir")
-
-        opcion_menu = input("Seleccione una opción (1-3): ")
-
-        if opcion_menu == '1':
-            crear_usuario()
-        elif opcion_menu == '2':
-            usuario_actual = iniciar_sesion()
-            if usuario_actual:
-                print(f"Bienvenido, {usuario_actual.nombre} ({usuario_actual.tipo})!")
-               
-        elif opcion_menu == '3':
-            print("Saliendo del programa.")
-            break
-        else:
-            print("Opción inválida. Intente nuevamente.")
