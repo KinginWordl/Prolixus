@@ -1,0 +1,132 @@
+[
+    {
+        "id": "0002",
+        "nombre": "Frank Cuervo",
+        "email": "Fcuervo@email.com",
+        "ubicacion": "Monteria",
+        "contrasena": "2222",
+        "tipo": "Coordinador",
+        "experiencia_gestion": [
+            "Direccion de proyectos viales",
+            " Coordinacion de Proyectos plantas hidricas",
+            " Asistente de contador"
+        ],
+        "certificaciones_liderazgo": [],
+        "historial_proyectos": [],
+        "evaluaciones_desempeno": []
+    },
+    {
+        "id": "3698",
+        "nombre": "Pedro Moscas",
+        "email": "Pmoscas@email.com",
+        "ubicacion": "Cucuta",
+        "contrasena": "6549",
+        "tipo": "Coordinador",
+        "experiencia_gestion": [
+            "Administracion taller vehicular",
+            " Procesos de empresas textil",
+            " Procesos Cooporativos de ventas"
+        ],
+        "certificaciones_liderazgo": [],
+        "historial_proyectos": [],
+        "evaluaciones_desempeno": []
+    },
+
+    {
+      "id": "COOR01",
+      "nombre": "Ana María López",
+      "email": "amlopez@gestion.co",
+      "ubicacion": "Bogotá",
+      "contrasena": "9876",
+      "tipo": "Coordinador",
+      "experiencia_gestion": ["Gestión de equipos de 5+ años", "Planificación de proyectos", "Liderazgo situacional"]
+    },
+    {
+      "id": "COOR02",
+      "nombre": "Juan Carlos Pérez",
+      "email": "jcperez@liderazgo.net",
+      "ubicacion": "Medellín",
+      "contrasena": "5432",
+      "tipo": "Coordinador",
+      "experiencia_gestion": ["Dirección de equipos multidisciplinarios", "Implementación de metodologías ágiles"],
+      "certificaciones_liderazgo": ["Certificación PMP"]
+    },
+    {
+      "id": "COOR03",
+      "nombre": "Laura Rodríguez",
+      "email": "lrodriguez@proyectos.org",
+      "ubicacion": "Cali",
+      "contrasena": "1122",
+      "tipo": "Coordinador",
+      "experiencia_gestion": ["Gestión de stakeholders", "Control de presupuestos"],
+      "historial_proyectos": ["Proyecto Alfa", "Proyecto Beta"]
+    },
+    {
+      "id": "COOR04",
+      "nombre": "Diego Fernando Gómez",
+      "email": "dfgomez@equipos.com",
+      "ubicacion": "Barranquilla",
+      "contrasena": "3344",
+      "tipo": "Coordinador",
+      "experiencia_gestion": ["Desarrollo de talento", "Evaluación de desempeño"],
+      "evaluaciones_desempeno": ["Sobresaliente en 2023"]
+    },
+    {
+      "id": "COOR05",
+      "nombre": "Carolina Vargas",
+      "email": "cvargas@gestionpro.co",
+      "ubicacion": "Bogotá",
+      "contrasena": "5566",
+      "tipo": "Coordinador",
+      "experiencia_gestion": ["Optimización de procesos", "Gestión de la comunicación"]
+    },
+    {
+      "id": "COOR06",
+      "nombre": "Andrés Mauricio Ruiz",
+      "email": "amruiz@liderazgoeficaz.net",
+      "ubicacion": "Medellín",
+      "contrasena": "7788",
+      "tipo": "Coordinador",
+      "experiencia_gestion": ["Toma de decisiones estratégicas", "Resolución de conflictos"],
+      "certificaciones_liderazgo": ["Certificación Scrum Master"]
+    },
+    {
+      "id": "COOR07",
+      "nombre": "Juliana Pérez Soto",
+      "email": "jpsoto@proyectosinnovadores.org",
+      "ubicacion": "Cali",
+      "contrasena": "9900",
+      "tipo": "Coordinador",
+      "experiencia_gestion": ["Gestión de la calidad", "Implementación de mejoras continuas"],
+      "historial_proyectos": ["Proyecto Gamma", "Proyecto Delta", "Proyecto Épsilon"]
+    },
+    {
+      "id": "COOR08",
+      "nombre": "Camilo Andrés López",
+      "email": "calopez@equiposalto.com",
+      "ubicacion": "Barranquilla",
+      "contrasena": "2233",
+      "tipo": "Coordinador",
+      "experiencia_gestion": ["Mentoring y coaching de equipos", "Gestión del cambio"],
+      "evaluaciones_desempeno": ["Excelente en 2024"]
+    },
+    {
+      "id": "COOR09",
+      "nombre": "Daniela Fernanda Castro",
+      "email": "dfcastro@gestionintegral.co",
+      "ubicacion": "Bogotá",
+      "contrasena": "4455",
+      "tipo": "Coordinador",
+      "experiencia_gestion": ["Planificación estratégica", "Desarrollo organizacional"]
+    },
+    {
+      "id": "COOR10",
+      "nombre": "Sebastián Martínez Vargas",
+      "email": "smvargas@liderazgotransformador.net",
+      "ubicacion": "Medellín",
+      "contrasena": "6677",
+      "tipo": "Coordinador",
+      "experiencia_gestion": ["Fomento de la innovación", "Gestión de riesgos"],
+      "certificaciones_liderazgo": ["Certificación en Agile Leadership"]
+    }
+  ]

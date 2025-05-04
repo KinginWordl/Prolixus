@@ -1,0 +1,82 @@
+[
+    {
+      "id": "7777",
+      "nombre": "Lukas Vazquez",
+      "email": "Lvazquez@gmail.com",
+      "ubicacion": "Pasto",
+      "contrasena": "5555",
+      "tipo": "Comprador"
+    },
+    {
+      "id": "8888",
+      "nombre": "Daniela Castro",
+      "email": "Dcastro@hotmail.com",
+      "ubicacion": "Medellín",
+      "contrasena": "6666",
+      "tipo": "Comprador"
+    },
+    {
+      "id": "9999",
+      "nombre": "Andrés Rojas",
+      "email": "Arojas@yahoo.com",
+      "ubicacion": "Bogotá",
+      "contrasena": "7777",
+      "tipo": "Comprador"
+    },
+    {
+      "id": "1111",
+      "nombre": "Valentina Soto",
+      "email": "Vsoto@outlook.com",
+      "ubicacion": "Cali",
+      "contrasena": "8888",
+      "tipo": "Comprador"
+    },
+    {
+      "id": "2222",
+      "nombre": "Mateo Benavides",
+      "email": "Mbenavides@gmail.com",
+      "ubicacion": "Barranquilla",
+      "contrasena": "9999",
+      "tipo": "Comprador"
+    },
+    {
+      "id": "3333",
+      "nombre": "Sofía Herrera",
+      "email": "Sherrera@hotmail.com",
+      "ubicacion": "Cartagena",
+      "contrasena": "0000",
+      "tipo": "Comprador"
+    },
+    {
+      "id": "4444",
+      "nombre": "Sebastián Vargas",
+      "email": "Svargas@yahoo.com",
+      "ubicacion": "Pereira",
+      "contrasena": "1234",
+      "tipo": "Comprador"
+    },
+    {
+      "id": "5555",
+      "nombre": "Isabella Torres",
+      "email": "Itorres@outlook.com",
+      "ubicacion": "Manizales",
+      "contrasena": "5432",
+      "tipo": "Comprador"
+    },
+    {
+      "id": "6666",
+      "nombre": "Nicolás Guzmán",
+      "email": "Nguzman@gmail.com",
+      "ubicacion": "Santa Marta",
+      "contrasena": "1122",
+      "tipo": "Comprador"
+    },
+    {
+      "id": "0000",
+      "nombre": "Camila Rincón",
+      "email": "Crincon@hotmail.com",
+      "ubicacion": "Ibagué",
+      "contrasena": "3344",
+      "tipo": "Comprador"
+    }
+  ]
