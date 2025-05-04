@@ -93,10 +93,10 @@ class Comprador(Usuario):
 class DuenoInversionista(Usuario):
     def __init__(self, id, nombre, email, ubicacion=None, contrasena=None):
         super().__init__(id, nombre, email, ubicacion, contrasena)
-        self.tipo = "Dueño/Inversionista"
+        self.tipo = "Inversionista"
 
     def _determinar_tipo(self):
-        return "Dueño/Inversionista"
+        return "Inversionista"
 
 # --- Rutas de los archivos JSON ---
 RUTA_TRABAJADORES = 'data/trabajadores.json'
@@ -145,13 +145,13 @@ def cargar_datos(ruta_archivo, clase):
 
 # --- Función para crear usuario (modificada para pedir contraseña y usar email) ---
 def crear_usuario():
-    print("\n--- Crear Nuevo Usuario ---")
+    print("--- Crear Nuevo Usuario ---")
     print("¿Qué tipo de usuario desea crear?")
     print("1. Trabajador")
     print("2. Coordinador/Manager")
     print("3. Empresa")
     print("4. Comprador")
-    print("5. Dueño/Inversionista")
+    print("5. Inversionista")
     print("6. Proveedor/Colaborador")
 
     opcion = input("Seleccione una opción (1-6): ")
@@ -169,42 +169,42 @@ def crear_usuario():
         habilidades = input("Ingrese sus habilidades (separadas por coma): ").split(',')
         trabajador = Trabajador(id=id_usuario, nombre=nombre, email=email, habilidades=habilidades, ubicacion=ubicacion, contrasena=contrasena)
         guardar_datos(RUTA_TRABAJADORES, trabajador)
-        print("\nPerfil de Trabajador creado y guardado.")
+        print("Perfil de Trabajador creado y guardado.")
         print(trabajador)
     elif opcion == '2':
         experiencia_gestion = input("Ingrese su experiencia en gestión (separadas por coma): ").split(',')
         coordinador = Coordinador(id=id_usuario, nombre=nombre, email=email, experiencia_gestion=experiencia_gestion, ubicacion=ubicacion, contrasena=contrasena)
         guardar_datos(RUTA_COORDINADORES, coordinador)
-        print("\nPerfil de Coordinador creado y guardado.")
+        print("Perfil de Coordinador creado y guardado.")
         print(coordinador)
     elif opcion == '3':
         nombre_empresa = input("Ingrese el nombre de la empresa: ")
         empresa = Empresa(id=id_usuario, nombre=nombre_empresa, email=email, ubicacion=ubicacion, contrasena=contrasena)
         guardar_datos(RUTA_EMPRESAS, empresa)
-        print("\nPerfil de Empresa creado y guardado.")
+        print("Perfil de Empresa creado y guardado.")
         print(empresa)
     elif opcion == '4':
         comprador = Comprador(id=id_usuario, nombre=nombre, email=email, ubicacion=ubicacion, contrasena=contrasena)
         guardar_datos(RUTA_COMPRADORES, comprador)
-        print("\nPerfil de Comprador creado y guardado.")
+        print("Perfil de Comprador creado y guardado.")
         print(comprador)
     elif opcion == '5':
         dueno_inversor = DuenoInversionista(id=id_usuario, nombre=nombre, email=email, ubicacion=ubicacion, contrasena=contrasena)
         guardar_datos(RUTA_DUENOINVERSIONISTAS, dueno_inversor)
-        print("\nPerfil de Dueño/Inversionista creado y guardado.")
+        print("Perfil de Inversionista creado y guardado.")
         print(dueno_inversor)
     elif opcion == '6':
         industria = input("Ingrese la industria de su empresa: ")
         proveedor = ProveedorColaborador(id=id_usuario, nombre=nombre, email=email, industria=industria, ubicacion=ubicacion, contrasena=contrasena)
         guardar_datos(RUTA_PROVEEDORES, proveedor)
-        print("\nPerfil de Proveedor/Colaborador creado y guardado.")
+        print("Perfil de Proveedor/Colaborador creado y guardado.")
         print(proveedor)
     else:
         print("Opción inválida.")
 
 # --- Función para iniciar sesión (usando email y contraseña) ---
 def iniciar_sesion():
-    print("\n--- Inicio de Sesión ---")
+    print("--- Inicio de Sesión ---")
     email_usuario = input("Ingrese su correo electrónico: ")
     contrasena = input("Ingrese su contraseña de 4 cifras: ")
 
@@ -220,15 +220,15 @@ def iniciar_sesion():
 
     for usuario in todos_los_usuarios:
         if usuario.email == email_usuario and usuario.verificar_contrasena(contrasena):
-            print(f"\n¡Inicio de sesión exitoso para {usuario.nombre} ({usuario.tipo})! Bienvenido a Prolix")
+            print(f"¡Inicio de sesión exitoso para {usuario.nombre} ({usuario.tipo})! Bienvenido a Prolix")
            
             return usuario
-    print("\nCredenciales incorrectas. Intente nuevamente.")
+    print("Credenciales incorrectas. Intente nuevamente.")
     return None
 
 if __name__ == "__main__":
     while True:
-        print("\n--- Menú Principal ---")
+        print("--- Menú Principal ---")
         print("1. Crear Nuevo Usuario")
         print("2. Iniciar Sesión")
         print("3. Salir")
@@ -240,7 +240,7 @@ if __name__ == "__main__":
         elif opcion_menu == '2':
             usuario_actual = iniciar_sesion()
             if usuario_actual:
-                print(f"\nBienvenido, {usuario_actual.nombre} ({usuario_actual.tipo})!")
+                print(f"Bienvenido, {usuario_actual.nombre} ({usuario_actual.tipo})!")
                
         elif opcion_menu == '3':
             print("Saliendo del programa.")
